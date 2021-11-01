@@ -692,6 +692,7 @@ Most of these tools offer great free plans (up to 50k$ processed for free).
 - [2checkout](https://go.2checkout.com/): smart subscription management suite — % fee
 - [Xero](https://www.xero.com/): Online accounting software for small businesses — starts at 20$/mo
 - [OpenNode](https://www.opennode.com/): accept Bitcoin payments (not recurring) — free plan
+- [CoinRemitter](https://coinremitter.com/): accept Bitcoin & altcoin payments — free plan & premium Plan - 0.23% fees.
 
 ### Miscellaneous Tools & Services
 
